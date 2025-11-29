@@ -1,2 +1,10 @@
+# Mi contenido esencial
 .env
 node_modules/
+
+# Contenido de GitHub (Logs, etc.)
+# Logs
+*.log
+npm-debug.log*
+yarn-error.log*
+lerna-debug.log*
